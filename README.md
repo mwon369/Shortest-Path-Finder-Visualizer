@@ -1,5 +1,6 @@
-# Maze-Shortest-Path-Finder
-A program that uses the Breadth First Search algorithm to find the shortest path between two points in a maze, and periodically updates the current output of the algorithm to the console using the Python curses module.
+# Shortest-Path-Finder-Visualizer
+
+A program that uses the Breadth First Search algorithm to find the shortest path between two points in a maze, and visualizes how the algorithm finds a solution by periodically updating the current program output to the console using the Python curses module.
 
 ![1](https://user-images.githubusercontent.com/100281768/163920095-90e2639e-97db-4362-9324-1a3fa87113b1.PNG)
 ![2](https://user-images.githubusercontent.com/100281768/163920100-bfd4279d-f645-4dc7-bc72-3f4d3bb6ffa5.PNG)
